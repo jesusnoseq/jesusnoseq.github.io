@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Blog</title>
-    <link>http://jesusnoseq.com/</link>
-    <description>Recent content on My New Blog</description>
+    <title>Posts on My New Blog</title>
+    <link>http://jesusnoseq.com/post/</link>
+    <description>Recent content in Posts on My New Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Tue, 02 Oct 2018 00:00:56 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 23:59:14 +0200</lastBuildDate>
     
-	<atom:link href="http://jesusnoseq.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jesusnoseq.com/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>http://jesusnoseq.com/about/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:56 +0200</pubDate>
-      
-      <guid>http://jesusnoseq.com/about/</guid>
-      <description>Soy @jesusnoseq</description>
-    </item>
     
     <item>
       <title>Hola Hugo</title>
