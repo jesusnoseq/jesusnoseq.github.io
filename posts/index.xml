@@ -2,20 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Jesusnoseq</title>
-    <link>https://jesusnoseq.com/</link>
+    <link>https://jesusnoseq.com/posts/</link>
     <description>Recent content on Jesusnoseq</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 01 Oct 2018 23:59:14 +0200</lastBuildDate><atom:link href="https://jesusnoseq.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://jesusnoseq.com/about/</link>
-      <pubDate>Tue, 02 Oct 2018 00:00:56 +0200</pubDate>
-      
-      <guid>https://jesusnoseq.com/about/</guid>
-      <description>Soy @jesusnoseq</description>
-    </item>
-    
+    <lastBuildDate>Mon, 01 Oct 2018 23:59:14 +0200</lastBuildDate><atom:link href="https://jesusnoseq.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Primer post con Hugo</title>
       <link>https://jesusnoseq.com/posts/test/</link>
@@ -24,7 +15,6 @@
       <guid>https://jesusnoseq.com/posts/test/</guid>
       <description>Esto es una prueba.</description>
     </item>
-    
     
   </channel>
 </rss>

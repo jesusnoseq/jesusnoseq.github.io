@@ -1,14 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on My New Blog</title>
-    <link>http://jesusnoseq.com/tags/</link>
-    <description>Recent content in Tags on My New Blog</description>
+    <title>Tags on Jesusnoseq</title>
+    <link>https://jesusnoseq.com/tags/</link>
+    <description>Recent content in Tags on Jesusnoseq</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    
-	<atom:link href="http://jesusnoseq.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>es-es</language><atom:link href="https://jesusnoseq.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
