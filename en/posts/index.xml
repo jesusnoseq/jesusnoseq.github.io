@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Jesusnoseq</title>
+    <link>https://jesusnoseq.com/en/posts/</link>
+    <description>Recent content in Posts on Jesusnoseq</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 13 Jan 2023 22:49:34 +0100</lastBuildDate><atom:link href="https://jesusnoseq.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About investments and money</title>
+      <link>https://jesusnoseq.com/en/posts/investment/</link>
+      <pubDate>Fri, 13 Jan 2023 22:49:34 +0100</pubDate>
+      
+      <guid>https://jesusnoseq.com/en/posts/investment/</guid>
+      <description>When I started working and saving some money. I thought it might be a good idea to invest, I then remembered to check the fees to be paid for buying shares and discarded the option. Now it is much easier to invest and be well informed, thanks to the internet. At the beginning of 2020, I started to get interested in investing again by watching videos on YouTube. There are some really good channels, but also some that are a bit dangerous or directly looking to scam you.</description>
+    </item>
+    
+    <item>
+      <title>Time Control</title>
+      <link>https://jesusnoseq.com/en/posts/time-control/</link>
+      <pubDate>Fri, 13 Jan 2023 22:49:34 +0100</pubDate>
+      
+      <guid>https://jesusnoseq.com/en/posts/time-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Makefiles</title>
+      <link>https://jesusnoseq.com/en/posts/makefiles/</link>
+      <pubDate>Thu, 12 Jan 2023 23:00:31 +0100</pubDate>
+      
+      <guid>https://jesusnoseq.com/en/posts/makefiles/</guid>
+      <description>EN</description>
+    </item>
+    
+  </channel>
+</rss>

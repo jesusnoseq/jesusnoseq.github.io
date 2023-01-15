@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>time on Jesusnoseq</title>
+    <link>https://jesusnoseq.com/en/tags/time/</link>
+    <description>Recent content in time on Jesusnoseq</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Fri, 13 Jan 2023 22:49:34 +0100</lastBuildDate><atom:link href="https://jesusnoseq.com/en/tags/time/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time Control</title>
+      <link>https://jesusnoseq.com/en/posts/time-control/</link>
+      <pubDate>Fri, 13 Jan 2023 22:49:34 +0100</pubDate>
+      
+      <guid>https://jesusnoseq.com/en/posts/time-control/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
