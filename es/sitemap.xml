@@ -140,10 +140,6 @@
                 href="https://jesusnoseq.com/about/"
                 />
   </url><url>
-    <loc>https://jesusnoseq.com/posts/courses/</loc>
-  </url><url>
-    <loc>https://jesusnoseq.com/references/awscret.go/</loc>
-  </url><url>
     <loc>https://jesusnoseq.com/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -167,7 +163,5 @@
                 hreflang="es"
                 href="https://jesusnoseq.com/search/"
                 />
-  </url><url>
-    <loc>https://jesusnoseq.com/references/</loc>
   </url>
 </urlset>
