@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jesusnoseq.com/posts/</loc>
-    <lastmod>2023-01-13T22:49:34+01:00</lastmod>
+    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,8 +15,72 @@
                 href="https://jesusnoseq.com/posts/"
                 />
   </url><url>
+    <loc>https://jesusnoseq.com/tags/economia/</loc>
+    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/inflaci%C3%B3n/</loc>
+    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
+  </url><url>
+    <loc>https://jesusnoseq.com/</loc>
+    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/posts/inflation/</loc>
+    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/posts/inflation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/posts/inflation/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/</loc>
+    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/gestion/</loc>
+    <lastmod>2023-01-21T22:49:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jesusnoseq.com/posts/time-control/</loc>
+    <lastmod>2023-01-21T22:49:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/posts/time-control/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/posts/time-control/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/tiempo/</loc>
+    <lastmod>2023-01-21T22:49:34+01:00</lastmod>
+  </url><url>
     <loc>https://jesusnoseq.com/categories/blog/</loc>
-    <lastmod>2023-01-13T22:49:34+01:00</lastmod>
+    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +93,7 @@
                 />
   </url><url>
     <loc>https://jesusnoseq.com/categories/</loc>
-    <lastmod>2023-01-13T22:49:34+01:00</lastmod>
+    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,45 +106,16 @@
                 />
   </url><url>
     <loc>https://jesusnoseq.com/tags/dinero/</loc>
-    <lastmod>2023-01-13T22:49:34+01:00</lastmod>
-  </url><url>
-    <loc>https://jesusnoseq.com/tags/gestion/</loc>
-    <lastmod>2023-01-13T22:49:34+01:00</lastmod>
+    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
   </url><url>
     <loc>https://jesusnoseq.com/tags/gesti%C3%B3n/</loc>
-    <lastmod>2023-01-13T22:49:34+01:00</lastmod>
-  </url><url>
-    <loc>https://jesusnoseq.com/posts/time-control/</loc>
-    <lastmod>2023-01-13T22:49:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/posts/time-control/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/posts/time-control/"
-                />
+    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
   </url><url>
     <loc>https://jesusnoseq.com/tags/inversi%C3%B3n/</loc>
-    <lastmod>2023-01-13T22:49:34+01:00</lastmod>
-  </url><url>
-    <loc>https://jesusnoseq.com/</loc>
-    <lastmod>2023-01-13T22:49:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/"
-                />
+    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
   </url><url>
     <loc>https://jesusnoseq.com/posts/investment/</loc>
-    <lastmod>2023-01-13T22:49:34+01:00</lastmod>
+    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -91,22 +126,6 @@
                 hreflang="es"
                 href="https://jesusnoseq.com/posts/investment/"
                 />
-  </url><url>
-    <loc>https://jesusnoseq.com/tags/</loc>
-    <lastmod>2023-01-13T22:49:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/tags/"
-                />
-  </url><url>
-    <loc>https://jesusnoseq.com/tags/tiempo/</loc>
-    <lastmod>2023-01-13T22:49:34+01:00</lastmod>
   </url><url>
     <loc>https://jesusnoseq.com/about/</loc>
     <lastmod>2018-10-02T00:00:56+02:00</lastmod>
@@ -120,6 +139,10 @@
                 hreflang="es"
                 href="https://jesusnoseq.com/about/"
                 />
+  </url><url>
+    <loc>https://jesusnoseq.com/posts/courses/</loc>
+  </url><url>
+    <loc>https://jesusnoseq.com/references/awscret.go/</loc>
   </url><url>
     <loc>https://jesusnoseq.com/archives/</loc>
     <xhtml:link
@@ -144,5 +167,7 @@
                 hreflang="es"
                 href="https://jesusnoseq.com/search/"
                 />
+  </url><url>
+    <loc>https://jesusnoseq.com/references/</loc>
   </url>
 </urlset>
