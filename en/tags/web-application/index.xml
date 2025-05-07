@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web Application on Jesusnoseq</title>
+    <link>https://jesusnoseq.com/en/tags/web-application/</link>
+    <description>Recent content in Web Application on Jesusnoseq</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 May 2025 12:00:00 +0000</lastBuildDate><atom:link href="https://jesusnoseq.com/en/tags/web-application/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Request Inbox</title>
+      <link>https://jesusnoseq.com/en/posts/request-inbox/</link>
+      <pubDate>Tue, 06 May 2025 12:00:00 +0000</pubDate>
+      
+      <guid>https://jesusnoseq.com/en/posts/request-inbox/</guid>
+      <description>Request Inbox Some time ago, I created a small project to visualize callbacks and HTTP requests. I called it Request Inbox.
+Objective I started working on this project with the goal of replacing webhookinbox.com, which was being used in the project I had just joined. Webhookinbox.com behaved quite erratically and was also very insecure. Among other things, all the URLs were public and there was no HTTPS.
+To create a more secure and reliable application, I developed Request Inbox, and today I decided to publish the repository.</description>
+    </item>
+    
+  </channel>
+</rss>

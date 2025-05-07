@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jesusnoseq.com/posts/</loc>
-    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
+    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,14 +15,34 @@
                 href="https://jesusnoseq.com/posts/"
                 />
   </url><url>
-    <loc>https://jesusnoseq.com/tags/economia/</loc>
-    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
+    <loc>https://jesusnoseq.com/categories/blog/</loc>
+    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/categories/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/categories/blog/"
+                />
   </url><url>
-    <loc>https://jesusnoseq.com/tags/inflaci%C3%B3n/</loc>
-    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
+    <loc>https://jesusnoseq.com/categories/</loc>
+    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/categories/"
+                />
   </url><url>
     <loc>https://jesusnoseq.com/</loc>
-    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
+    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -33,6 +53,64 @@
                 hreflang="es"
                 href="https://jesusnoseq.com/"
                 />
+  </url><url>
+    <loc>https://jesusnoseq.com/posts/request-inbox/</loc>
+    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/posts/request-inbox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/posts/request-inbox/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/side-project/</loc>
+    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/side-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/side-project/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/</loc>
+    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/web-application/</loc>
+    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/web-application/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/web-application/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/economia/</loc>
+    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/inflaci%C3%B3n/</loc>
+    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
   </url><url>
     <loc>https://jesusnoseq.com/posts/inflation/</loc>
     <lastmod>2023-01-29T23:00:31+01:00</lastmod>
@@ -45,19 +123,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://jesusnoseq.com/posts/inflation/"
-                />
-  </url><url>
-    <loc>https://jesusnoseq.com/tags/</loc>
-    <lastmod>2023-01-29T23:00:31+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/tags/"
                 />
   </url><url>
     <loc>https://jesusnoseq.com/tags/gestion/</loc>
@@ -78,32 +143,6 @@
   </url><url>
     <loc>https://jesusnoseq.com/tags/tiempo/</loc>
     <lastmod>2023-01-21T22:49:34+01:00</lastmod>
-  </url><url>
-    <loc>https://jesusnoseq.com/categories/blog/</loc>
-    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/categories/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/categories/blog/"
-                />
-  </url><url>
-    <loc>https://jesusnoseq.com/categories/</loc>
-    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/categories/"
-                />
   </url><url>
     <loc>https://jesusnoseq.com/tags/dinero/</loc>
     <lastmod>2023-01-14T11:49:34+01:00</lastmod>

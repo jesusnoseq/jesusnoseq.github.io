@@ -5,10 +5,28 @@
     <link>https://jesusnoseq.com/en/tags/</link>
     <description>Recent content in Tags on Jesusnoseq</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    <lastBuildDate>Sun, 29 Jan 2023 23:00:31 +0100</lastBuildDate><atom:link href="https://jesusnoseq.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 06 May 2025 12:00:00 +0000</lastBuildDate><atom:link href="https://jesusnoseq.com/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>economy</title>
+      <title>Side Project</title>
+      <link>https://jesusnoseq.com/en/tags/side-project/</link>
+      <pubDate>Tue, 06 May 2025 12:00:00 +0000</pubDate>
+      
+      <guid>https://jesusnoseq.com/en/tags/side-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Application</title>
+      <link>https://jesusnoseq.com/en/tags/web-application/</link>
+      <pubDate>Tue, 06 May 2025 12:00:00 +0000</pubDate>
+      
+      <guid>https://jesusnoseq.com/en/tags/web-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economy</title>
       <link>https://jesusnoseq.com/en/tags/economy/</link>
       <pubDate>Sun, 29 Jan 2023 23:00:31 +0100</pubDate>
       
@@ -17,7 +35,7 @@
     </item>
     
     <item>
-      <title>inflaction</title>
+      <title>Inflaction</title>
       <link>https://jesusnoseq.com/en/tags/inflaction/</link>
       <pubDate>Sun, 29 Jan 2023 23:00:31 +0100</pubDate>
       
@@ -26,7 +44,7 @@
     </item>
     
     <item>
-      <title>manage</title>
+      <title>Manage</title>
       <link>https://jesusnoseq.com/en/tags/manage/</link>
       <pubDate>Sat, 21 Jan 2023 22:49:34 +0100</pubDate>
       
@@ -35,7 +53,7 @@
     </item>
     
     <item>
-      <title>time</title>
+      <title>Time</title>
       <link>https://jesusnoseq.com/en/tags/time/</link>
       <pubDate>Sat, 21 Jan 2023 22:49:34 +0100</pubDate>
       
@@ -44,7 +62,7 @@
     </item>
     
     <item>
-      <title>investment</title>
+      <title>Investment</title>
       <link>https://jesusnoseq.com/en/tags/investment/</link>
       <pubDate>Sat, 14 Jan 2023 22:49:34 +0100</pubDate>
       
@@ -53,7 +71,7 @@
     </item>
     
     <item>
-      <title>money</title>
+      <title>Money</title>
       <link>https://jesusnoseq.com/en/tags/money/</link>
       <pubDate>Sat, 14 Jan 2023 22:49:34 +0100</pubDate>
       

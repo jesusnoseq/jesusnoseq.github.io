@@ -5,8 +5,19 @@
     <link>https://jesusnoseq.com/en/posts/</link>
     <description>Recent content in Posts on Jesusnoseq</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
-    <lastBuildDate>Sun, 29 Jan 2023 23:00:31 +0100</lastBuildDate><atom:link href="https://jesusnoseq.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 06 May 2025 12:00:00 +0000</lastBuildDate><atom:link href="https://jesusnoseq.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Request Inbox</title>
+      <link>https://jesusnoseq.com/en/posts/request-inbox/</link>
+      <pubDate>Tue, 06 May 2025 12:00:00 +0000</pubDate>
+      
+      <guid>https://jesusnoseq.com/en/posts/request-inbox/</guid>
+      <description>Request Inbox Some time ago, I created a small project to visualize callbacks and HTTP requests. I called it Request Inbox.
+Objective I started working on this project with the goal of replacing webhookinbox.com, which was being used in the project I had just joined. Webhookinbox.com behaved quite erratically and was also very insecure. Among other things, all the URLs were public and there was no HTTPS.
+To create a more secure and reliable application, I developed Request Inbox, and today I decided to publish the repository.</description>
+    </item>
+    
     <item>
       <title>About inflation</title>
       <link>https://jesusnoseq.com/en/posts/inflation/</link>
