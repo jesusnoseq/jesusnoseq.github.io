@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software on Jesusnoseq</title>
+    <link>https://jesusnoseq.com/tags/software/</link>
+    <description>Recent content in Software on Jesusnoseq</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 10 May 2025 12:00:00 +0000</lastBuildDate><atom:link href="https://jesusnoseq.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Son los videojuegos las catedrales del siglo 21?</title>
+      <link>https://jesusnoseq.com/posts/cathedrals-and-videogames/</link>
+      <pubDate>Sat, 10 May 2025 12:00:00 +0000</pubDate>
+      
+      <guid>https://jesusnoseq.com/posts/cathedrals-and-videogames/</guid>
+      <description>¿Son los videojuegos las catedrales del siglo 21? Desde hace tiempo me llama la atención el escaso reconocimiento que recibe el videojuego fuera del ámbito “gamer”. No creo que este desconocimiento sea fruto de un menosprecio deliberado, sino, más bien, de la falta de información. Para ayudar a que se valore el ingente esfuerzo que supone crear un videojuego, he pensado en una analogía con algo mucho más tangible y físico.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jesusnoseq.com/posts/</loc>
-    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
+    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,8 +15,21 @@
                 href="https://jesusnoseq.com/posts/"
                 />
   </url><url>
+    <loc>https://jesusnoseq.com/posts/cathedrals-and-videogames/</loc>
+    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/posts/cathedrals-and-videogames/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/posts/cathedrals-and-videogames/"
+                />
+  </url><url>
     <loc>https://jesusnoseq.com/categories/blog/</loc>
-    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
+    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,7 +42,7 @@
                 />
   </url><url>
     <loc>https://jesusnoseq.com/categories/</loc>
-    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
+    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,7 +55,7 @@
                 />
   </url><url>
     <loc>https://jesusnoseq.com/</loc>
-    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
+    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -53,6 +66,35 @@
                 hreflang="es"
                 href="https://jesusnoseq.com/"
                 />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/software/</loc>
+    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/software/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/software/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/</loc>
+    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/videojuegos/</loc>
+    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jesusnoseq.com/posts/request-inbox/</loc>
     <lastmod>2025-05-06T12:00:00+00:00</lastmod>
@@ -78,19 +120,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://jesusnoseq.com/tags/side-project/"
-                />
-  </url><url>
-    <loc>https://jesusnoseq.com/tags/</loc>
-    <lastmod>2025-05-06T12:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/tags/"
                 />
   </url><url>
     <loc>https://jesusnoseq.com/tags/web-application/</loc>
