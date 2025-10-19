@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jesusnoseq.com/posts/</loc>
-    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
+    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,90 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://jesusnoseq.com/posts/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/categories/blog/</loc>
+    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/categories/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/categories/blog/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/categories/</loc>
+    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/categories/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/dinero/</loc>
+    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/economy/</loc>
+    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/economy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/economy/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/inversi%C3%B3n/</loc>
+    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jesusnoseq.com/posts/alternative-investements/</loc>
+    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/posts/alternative-investements/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/posts/alternative-investements/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/</loc>
+    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/tags/</loc>
+    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/"
                 />
   </url><url>
     <loc>https://jesusnoseq.com/posts/cathedrals-and-videogames/</loc>
@@ -28,45 +112,6 @@
                 href="https://jesusnoseq.com/posts/cathedrals-and-videogames/"
                 />
   </url><url>
-    <loc>https://jesusnoseq.com/categories/blog/</loc>
-    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/categories/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/categories/blog/"
-                />
-  </url><url>
-    <loc>https://jesusnoseq.com/categories/</loc>
-    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/categories/"
-                />
-  </url><url>
-    <loc>https://jesusnoseq.com/</loc>
-    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/"
-                />
-  </url><url>
     <loc>https://jesusnoseq.com/tags/software/</loc>
     <lastmod>2025-05-10T12:00:00+00:00</lastmod>
     <xhtml:link
@@ -78,19 +123,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://jesusnoseq.com/tags/software/"
-                />
-  </url><url>
-    <loc>https://jesusnoseq.com/tags/</loc>
-    <lastmod>2025-05-10T12:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/tags/"
                 />
   </url><url>
     <loc>https://jesusnoseq.com/tags/videojuegos/</loc>
@@ -173,40 +205,8 @@
     <loc>https://jesusnoseq.com/tags/tiempo/</loc>
     <lastmod>2023-01-21T22:49:34+01:00</lastmod>
   </url><url>
-    <loc>https://jesusnoseq.com/tags/dinero/</loc>
-    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
-  </url><url>
-    <loc>https://jesusnoseq.com/tags/economy/</loc>
-    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/tags/economy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/tags/economy/"
-                />
-  </url><url>
     <loc>https://jesusnoseq.com/tags/gesti%C3%B3n/</loc>
     <lastmod>2023-01-14T11:49:34+01:00</lastmod>
-  </url><url>
-    <loc>https://jesusnoseq.com/tags/inversi%C3%B3n/</loc>
-    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
-  </url><url>
-    <loc>https://jesusnoseq.com/posts/alternative-investements/</loc>
-    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/posts/alternative-investements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/posts/alternative-investements/"
-                />
   </url><url>
     <loc>https://jesusnoseq.com/posts/investment/</loc>
     <lastmod>2023-01-14T11:49:34+01:00</lastmod>
