@@ -150,6 +150,16 @@
   </url><url>
     <loc>https://jesusnoseq.com/en/tags/economy/</loc>
     <lastmod>2023-01-29T23:00:31+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/economy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/economy/"
+                />
   </url><url>
     <loc>https://jesusnoseq.com/en/tags/inflaction/</loc>
     <lastmod>2023-01-29T23:00:31+01:00</lastmod>
@@ -191,6 +201,19 @@
   </url><url>
     <loc>https://jesusnoseq.com/en/tags/money/</loc>
     <lastmod>2023-01-14T22:49:34+01:00</lastmod>
+  </url><url>
+    <loc>https://jesusnoseq.com/en/posts/alternative-investements/</loc>
+    <lastmod>2023-01-14T11:49:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/posts/alternative-investements/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/posts/alternative-investements/"
+                />
   </url><url>
     <loc>https://jesusnoseq.com/en/about/</loc>
     <lastmod>2018-10-02T00:00:56+02:00</lastmod>
