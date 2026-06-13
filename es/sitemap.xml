@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jesusnoseq.com/posts/</loc>
-    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
+    <lastmod>2026-06-18T23:55:34+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -13,6 +13,19 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://jesusnoseq.com/posts/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/</loc>
+    <lastmod>2026-06-18T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/"
                 />
   </url><url>
     <loc>https://jesusnoseq.com/categories/blog/</loc>
@@ -71,19 +84,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://jesusnoseq.com/posts/alternative-investements/"
-                />
-  </url><url>
-    <loc>https://jesusnoseq.com/</loc>
-    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/"
                 />
   </url><url>
     <loc>https://jesusnoseq.com/tags/</loc>

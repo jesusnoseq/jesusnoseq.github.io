@@ -2,6 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jesusnoseq.com/en/</loc>
+    <lastmod>2026-06-18T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/en/posts/</loc>
+    <lastmod>2026-06-18T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/posts/"
+                />
+  </url><url>
     <loc>https://jesusnoseq.com/en/posts/alternative-investements/</loc>
     <lastmod>2025-10-18T23:49:34+01:00</lastmod>
     <xhtml:link
@@ -57,34 +83,8 @@
     <loc>https://jesusnoseq.com/en/tags/investment/</loc>
     <lastmod>2025-10-18T23:49:34+01:00</lastmod>
   </url><url>
-    <loc>https://jesusnoseq.com/en/</loc>
-    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/"
-                />
-  </url><url>
     <loc>https://jesusnoseq.com/en/tags/money/</loc>
     <lastmod>2025-10-18T23:49:34+01:00</lastmod>
-  </url><url>
-    <loc>https://jesusnoseq.com/en/posts/</loc>
-    <lastmod>2025-10-18T23:49:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/posts/"
-                />
   </url><url>
     <loc>https://jesusnoseq.com/en/tags/</loc>
     <lastmod>2025-10-18T23:49:34+01:00</lastmod>
