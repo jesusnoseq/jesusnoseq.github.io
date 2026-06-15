@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dev on Jesusnoseq</title>
+    <link>https://jesusnoseq.com/en/tags/dev/</link>
+    <description>Recent content in Dev on Jesusnoseq</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Jun 2026 23:55:34 +0100</lastBuildDate><atom:link href="https://jesusnoseq.com/en/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI subscriptions for DEVs</title>
+      <link>https://jesusnoseq.com/en/posts/ai-subscriptions/</link>
+      <pubDate>Sun, 14 Jun 2026 23:55:34 +0100</pubDate>
+      
+      <guid>https://jesusnoseq.com/en/posts/ai-subscriptions/</guid>
+      <description>We’ve been living with generative AI for a while now, and since then it’s become pretty common to chat with fellow engineers about how LLMs are evolving in agentic programming. I get asked about it a lot, and I also end up asking pretty much everyone I meet—mostly people in the industry, since that’s just the circles I move in—how they’re using AI, whether their companies allow it, or if they’re paying for subscriptions themselves.</description>
+    </item>
+    
+  </channel>
+</rss>
