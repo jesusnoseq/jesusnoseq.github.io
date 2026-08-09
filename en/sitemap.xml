@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://jesusnoseq.com/en/tags/ai/</loc>
-    <lastmod>2026-06-14T23:55:34+01:00</lastmod>
+    <lastmod>2026-08-08T23:55:34+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -13,6 +13,149 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jesusnoseq.com/en/tags/ai/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/en/tags/babylonjs/</loc>
+    <lastmod>2026-08-08T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/babylonjs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/babylonjs/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/en/categories/blog/</loc>
+    <lastmod>2026-08-08T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/categories/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/categories/blog/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/en/categories/</loc>
+    <lastmod>2026-08-08T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/categories/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/en/tags/dev/</loc>
+    <lastmod>2026-08-08T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/dev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/dev/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/en/tags/games/</loc>
+    <lastmod>2026-08-08T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/games/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/games/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/en/</loc>
+    <lastmod>2026-08-08T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/en/posts/</loc>
+    <lastmod>2026-08-08T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/posts/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/en/tags/</loc>
+    <lastmod>2026-08-08T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/en/tags/vibecoding/</loc>
+    <lastmod>2026-08-08T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/vibecoding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/vibecoding/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/en/posts/vibecoding/</loc>
+    <lastmod>2026-08-08T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/posts/vibecoding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/posts/vibecoding/"
+                />
+  </url><url>
+    <loc>https://jesusnoseq.com/en/tags/webxr/</loc>
+    <lastmod>2026-08-08T23:55:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://jesusnoseq.com/tags/webxr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jesusnoseq.com/en/tags/webxr/"
                 />
   </url><url>
     <loc>https://jesusnoseq.com/en/posts/ai-subscriptions/</loc>
@@ -28,45 +171,6 @@
                 href="https://jesusnoseq.com/en/posts/ai-subscriptions/"
                 />
   </url><url>
-    <loc>https://jesusnoseq.com/en/categories/blog/</loc>
-    <lastmod>2026-06-14T23:55:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/categories/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/categories/blog/"
-                />
-  </url><url>
-    <loc>https://jesusnoseq.com/en/categories/</loc>
-    <lastmod>2026-06-14T23:55:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/categories/"
-                />
-  </url><url>
-    <loc>https://jesusnoseq.com/en/tags/dev/</loc>
-    <lastmod>2026-06-14T23:55:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/tags/dev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/tags/dev/"
-                />
-  </url><url>
     <loc>https://jesusnoseq.com/en/tags/investment/</loc>
     <lastmod>2026-06-14T23:55:34+01:00</lastmod>
     <xhtml:link
@@ -80,19 +184,6 @@
                 href="https://jesusnoseq.com/en/tags/investment/"
                 />
   </url><url>
-    <loc>https://jesusnoseq.com/en/</loc>
-    <lastmod>2026-06-14T23:55:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/"
-                />
-  </url><url>
     <loc>https://jesusnoseq.com/en/tags/money/</loc>
     <lastmod>2026-06-14T23:55:34+01:00</lastmod>
     <xhtml:link
@@ -104,32 +195,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://jesusnoseq.com/en/tags/money/"
-                />
-  </url><url>
-    <loc>https://jesusnoseq.com/en/posts/</loc>
-    <lastmod>2026-06-14T23:55:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/posts/"
-                />
-  </url><url>
-    <loc>https://jesusnoseq.com/en/tags/</loc>
-    <lastmod>2026-06-14T23:55:34+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://jesusnoseq.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://jesusnoseq.com/en/tags/"
                 />
   </url><url>
     <loc>https://jesusnoseq.com/en/posts/alternative-investements/</loc>

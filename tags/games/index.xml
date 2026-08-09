@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Games on Jesusnoseq</title>
+    <link>https://jesusnoseq.com/tags/games/</link>
+    <description>Recent content in Games on Jesusnoseq</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 08 Aug 2026 23:55:34 +0100</lastBuildDate><atom:link href="https://jesusnoseq.com/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vibecoding</title>
+      <link>https://jesusnoseq.com/posts/vibecoding/</link>
+      <pubDate>Sat, 08 Aug 2026 23:55:34 +0100</pubDate>
+      
+      <guid>https://jesusnoseq.com/posts/vibecoding/</guid>
+      <description>Hace un par de semanas empecé el proyecto de Fuboh haciendo vibecoding en mis ratos libres. En la primera semana ya tenía algo jugable online y la segunda ha sido de mejoras. Aún le podría dedicar otra semana más a dejarlo de verdad pulido.
+Actualmente el juego permite echar unas partidas de futbolín con teclado (no recomendable), gamepad y VR desde el navegador. También incluye unos cuantos modos: versus IA, versus jugadores online o en local, y todas sus variantes.</description>
+    </item>
+    
+  </channel>
+</rss>
