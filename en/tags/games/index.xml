@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 08 Aug 2026 23:55:34 +0100</lastBuildDate><atom:link href="https://jesusnoseq.com/en/tags/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vibecoding a Videogame: Futboh</title>
-      <link>https://jesusnoseq.com/en/posts/vibecoding/</link>
+      <link>https://jesusnoseq.com/en/posts/vibecoding-futboh/</link>
       <pubDate>Sat, 08 Aug 2026 23:55:34 +0100</pubDate>
       
-      <guid>https://jesusnoseq.com/en/posts/vibecoding/</guid>
+      <guid>https://jesusnoseq.com/en/posts/vibecoding-futboh/</guid>
       <description>A couple of weeks ago I started the Futboh project by vibecoding in my spare time. By the end of the first week I already had something playable online, and the second week has been about improvements. I could probably spend another week getting it properly polished.
 The game currently lets you play a few games of foosball from your browser using a keyboard (not recommended), a gamepad, or VR. It also includes several modes: versus AI, versus online or local players, and all their variants.</description>
     </item>

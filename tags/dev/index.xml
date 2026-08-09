@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 08 Aug 2026 23:55:34 +0100</lastBuildDate><atom:link href="https://jesusnoseq.com/tags/dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vibecodeando un videojuego: Futboh</title>
-      <link>https://jesusnoseq.com/posts/vibecoding/</link>
+      <link>https://jesusnoseq.com/posts/vibecoding-futboh/</link>
       <pubDate>Sat, 08 Aug 2026 23:55:34 +0100</pubDate>
       
-      <guid>https://jesusnoseq.com/posts/vibecoding/</guid>
+      <guid>https://jesusnoseq.com/posts/vibecoding-futboh/</guid>
       <description>Hace un par de semanas empecé el proyecto de Futboh haciendo vibecoding en mis ratos libres. En la primera semana ya tenía algo jugable online y la segunda ha sido de mejoras. Aún le podría dedicar otra semana más a dejarlo de verdad pulido.
 Actualmente el juego permite echar unas partidas de futbolín con teclado (no recomendable), gamepad y VR desde el navegador. También incluye unos cuantos modos: versus IA, versus jugadores online o en local, y todas sus variantes.</description>
     </item>
